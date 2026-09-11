@@ -1,4 +1,4 @@
-// testing auto trigger
+// auto-trigger demo test
 pipeline {
     agent any
 
